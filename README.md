@@ -28,4 +28,4 @@ birthday message on the screen to make someone's day extra special.
 
 ## APK Releases
 
-1. Birthday Card [link]()
+1. Birthday Card [link](https://github.com/jenniferksantos/Happy-Birthday/releases/tag/ca3.apk)
